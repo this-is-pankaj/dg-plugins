@@ -8,8 +8,8 @@
     "lint": "vue-cli-service lint",
     "start": "npm run build && node ./index"
   },
-  engines: {
-    node: "14.x"
+  "engines": {
+    "node": "14.x"
   },
   "dependencies": {
     "axios": "^0.26.0",
